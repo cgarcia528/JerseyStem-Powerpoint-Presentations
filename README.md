@@ -1,6 +1,6 @@
 # JerseyStem-Powerpoint-Presentations
 
-Informational Slides during my volunteer time in JerseySTEM from August 2018 to September 2018. There are four presentation slides in this repo: Conditionals, Loops, Functions and Exercises for Javascript.
+Informational Slides during my volunteer time in JerseySTEM from August 2018 to September 2018. The original powerpoints have been included along with PDF uploads for easier viewing directly on GitHub without the need for downloads. There are four presentation slides in this repo: Conditionals, Loops, Functions and Exercises for Javascript.
 
 ## Conditionals
 This presentation goes over the basic if, else, and else if conditionals when learning how to code by including intuitive examples encounter in everyday life (i.e. "If I run fast, then I will get tired more quickly"). It also includes information on operators such as or, equal to, and, not, less than and greater than. It ends with an exercise for students to use their newfound knowledge to create a simple "grade checker" at the end of the lesson using Javascript.
